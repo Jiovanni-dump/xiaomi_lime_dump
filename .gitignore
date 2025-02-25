@@ -1,0 +1,8 @@
+recovery.img
+boot.img
+product/app/Photos/Photos.apk
+product/priv-app/Velvet/Velvet.apk
+product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk
+product/priv-app/DevicePersonalizationPrebuiltPixel2023/DevicePersonalizationPrebuiltPixel2023.apk
+product/priv-app/PrebuiltBugle/PrebuiltBugle.apk
+bootimg/14_dtbdump_Qualcomm_Technologies,_Inc._Scuba_IOT_SoC.dtb

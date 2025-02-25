@@ -1,0 +1,14 @@
+# genesis_lime-user 14 UQ1A.240205.004 1708845145 release-keys
+- manufacturer: xiaomi
+- platform: bengal
+- codename: lime
+- flavor: genesis_lime-user
+- release: 14
+- id: UQ1A.240205.004
+- incremental: 1708845145
+- tags: release-keys
+- fingerprint: Xiaomi/genesis_lime/lime:14/UQ1A.240205.004/nobody02250811:user/release-keys
+- is_ab: false
+- brand: Xiaomi
+- branch: genesis_lime-user-14-UQ1A.240205.004-1708845145-release-keys
+- repo: xiaomi_lime_dump
