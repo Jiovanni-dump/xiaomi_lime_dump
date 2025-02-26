@@ -1,0 +1,5 @@
+vendor/lib64/camera/components/com.qti.node.mialgocontrol.so.xz
+boot.img.xz
+bootimg/14_dtbdump_Qualcomm_Technologies,_Inc._Scuba_IOT_SoC.dtb.xz
+product/app/webview/webview.apk.xz
+recovery.img.xz

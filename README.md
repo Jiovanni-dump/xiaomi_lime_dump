@@ -1,0 +1,14 @@
+# lineage_lime-user 13 TQ3A.230901.001 eng.buxx.20240206.051422 release-keys
+- manufacturer: xiaomi
+- platform: bengal
+- codename: lime
+- flavor: lineage_lime-user
+- release: 13
+- id: TQ3A.230901.001
+- incremental: eng.buxx.20240206.051422
+- tags: release-keys
+- fingerprint: Xiaomi/lineage_lime/lime:13/TQ3A.230901.001/buxx02090657:user/release-keys
+- is_ab: false
+- brand: Xiaomi
+- branch: lineage_lime-user-13-TQ3A.230901.001-eng.buxx.20240206.051422-release-keys
+- repo: xiaomi_lime_dump

@@ -1,0 +1,16 @@
+audio.offload.min.duration.secs=30
+audio.sys.mute.latency.factor=2
+audio.sys.noisy.broadcast.delay=500
+audio.sys.offload.pstimeout.secs=3
+audio.sys.routing.latency=0
+dalvik.vm.systemservercompilerfilter=space
+persist.device_config.activity_manager.use_compaction=true
+pm.dexopt.ab-ota=space-profile
+pm.dexopt.bg-dexopt=space-profile
+pm.dexopt.install=space-profile
+pm.dexopt.install-bulk=space-profile
+pm.dexopt.shared=space
+ro.config.alarm_alert=Hassium.ogg
+ro.config.notification_sound=Argon.ogg
+ro.config.ringtone=Orion.ogg
+ro.support_one_handed_mode=true
