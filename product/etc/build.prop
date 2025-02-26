@@ -1,0 +1,50 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Xiaomi
+ro.product.product.device=lime
+ro.product.product.manufacturer=Xiaomi
+ro.product.product.model=Redmi 9T
+ro.product.product.name=lineage_lime
+ro.product.build.date=Fri Feb  9 06:57:31 UTC 2024
+ro.product.build.date.utc=1707461851
+ro.product.build.fingerprint=Xiaomi/lineage_lime/lime:13/TQ3A.230901.001/buxx02090657:user/release-keys
+ro.product.build.id=TQ3A.230901.001
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=eng.buxx.20240209.070129
+ro.product.build.version.release=13
+ro.product.build.version.release_or_codename=13
+ro.product.build.version.sdk=33
+####################################
+# from device/xiaomi/chime/configs/prop/product.prop
+####################################
+# audio
+audio.sys.noisy.broadcast.delay=500
+audio.sys.mute.latency.factor=2
+audio.sys.routing.latency=0
+audio.offload.min.duration.secs=30
+audio.sys.offload.pstimeout.secs=3
+# Cached app compaction
+persist.device_config.activity_manager.use_compaction=true
+# DEX
+pm.dexopt.install=space-profile
+pm.dexopt.install-bulk=space-profile
+pm.dexopt.bg-dexopt=space-profile
+pm.dexopt.ab-ota=space-profile
+pm.dexopt.shared=space
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+dalvik.vm.systemservercompilerfilter=space
+ro.build.characteristics=default
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.config.notification_sound=Argon.ogg
+ro.config.alarm_alert=Hassium.ogg
+ro.support_one_handed_mode=true
+ro.config.ringtone=Orion.ogg
+# end of file
+
